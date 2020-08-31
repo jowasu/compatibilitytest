@@ -6,3 +6,6 @@ learning how to link GitHub with R projects
 
 ## RStudio Welcome
 I made this change in RStudio
+
+# Whoops!
+This line was written in GitHub!
